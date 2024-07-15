@@ -1,0 +1,44 @@
+.thanks__content{
+    font-display: flex;
+    background-color: white;
+    width: 1381px;
+    height: 365px;
+}
+
+
+.background{
+    margin: top 319px;
+    margin: left 66px;
+    font-family: inika;
+    font-weight: 400;
+    font-size: 280px;
+    line-height: 364.84px;
+    color: #8b7969;
+}
+
+.h2{
+    width: 510px;
+    height: 39px;
+    margin-top: 461px;
+    margin-left: 510px;
+    font-family: inika;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 39.09px;
+    color: #8b7969;
+}
+
+.home{
+    width: 140px;
+    height: 46px;
+    margin-top: 555px;
+    margin-left: 686px;
+    padding: 10px 40px 10px 40px;
+    gap: 10px;
+    color: #8b7969;
+}
+
+
+
+
+
